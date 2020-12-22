@@ -1,0 +1,10 @@
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\obj\Debug\RenomearArquivos.Form1.resources
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\obj\Debug\RenomearArquivos.Properties.Resources.resources
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\obj\Debug\RenomearArquivos.csproj.GenerateResource.cache
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\obj\Debug\RenomearArquivos.csproj.CoreCompileInputs.cache
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\bin\Debug\Renomear Arquivos.exe.config
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\bin\Debug\Renomear Arquivos.exe
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\bin\Debug\Renomear Arquivos.pdb
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\obj\Debug\RenomearArquivos.csprojAssemblyReference.cache
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\obj\Debug\Renomear Arquivos.exe
+C:\Users\luizf\Desktop\Renome\RenomearArquivos\obj\Debug\Renomear Arquivos.pdb
